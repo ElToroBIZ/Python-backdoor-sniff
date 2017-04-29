@@ -4,7 +4,7 @@ import os,time
 import multiprocessing
 from multiprocessing import Pool
 
-#读取IP到队列
+#读取IP到队列 
 def read_ip(q):
     # 获取当前路径
     path = str(os.getcwd())
