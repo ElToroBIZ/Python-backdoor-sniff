@@ -1,2 +1,2 @@
 # Python-backdoor-sniff
-Python写的程批量检测SMB漏洞的小程序
+Pytho写的多进程检测SMB漏洞的小程序
